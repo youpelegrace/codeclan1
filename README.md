@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 ## screenshot
 
 <div align = "center">
-  <img src=""/> 
+  <img src="/ss/screenshot.jpeg"/> 
   <div/>
